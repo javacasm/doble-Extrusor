@@ -6,4 +6,4 @@
 * makergal: Modelo de Makergal, diseño propio
 * koldo: es el modelo de koldo Astarloa
 
-Falta buscar el modelo de motor (mejor los más cortos) y el MK7 o MK8
+Falta buscar el modelo de motor (mejor los más cortos) y si usa MK7 o MK8
